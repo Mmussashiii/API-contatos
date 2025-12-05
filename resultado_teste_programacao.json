@@ -1,0 +1,34 @@
+{
+    "candidato": "Lucas Bueno Costa",
+    "data": "27/11/2025",
+    "email": "lucas.bueno2010@hotmail.com",
+    "questoes": [
+        {
+            "questao": "01",
+            "resposta": "112,5"
+        },{
+            "questao": "02",
+            "resposta": "40,5"
+        },{
+            "questao": "03",
+            "resposta": "16,2"
+        },{
+            "questao": "04",
+            "resposta": "20,25"
+        },{
+            "questao": "05",
+            "resposta": "13,5"
+        },{
+            "questao": "06",
+            "resposta": "4"
+        },{
+            "questao": "07",
+            "resposta1": 
+            "João é da Bahia, gosta da cor verde, Programa em JAVA, está trabalhando no projeto do E-commerce ultilizando Ubuntu",
+            "resposta2": 
+            "Vitória é de São Paulo, gosta da cor azul, programa em NodeJS, está trabalhando no projeto CRM ultilizando MacOS",
+            "resposta3": 
+            "Flávio é do Rio de Janeiro, gosta da cor vermelha, programa em Phyton, está trabalhando no projeto OpenBanking ultilizando Windows"
+        }
+    ]
+}
